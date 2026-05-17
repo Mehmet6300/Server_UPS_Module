@@ -27,3 +27,5 @@ As the project transitions from simulation to physical PCB layout, the engineeri
 * **Component Selection:** Sourcing high-MTBF (Mean Time Between Failures) capacitors, heavy-duty inductors, and high-temperature-rated MOSFETs.
 * **Thermal Management:** Implementing comprehensive heat dissipation strategies (heatsinks, thermal vias) for the switching and regulation stages.
 * **Protection Circuits:** Adding over-current (OCP), over-voltage (OVP), and deep-discharge protection layers to maximize battery life and server safety.
+
+> **Note:** Detailed simulation results and waveform graphs are temporarily pending due to ongoing troubleshooting with Multisim configurations and block commands. Full transient and steady-state analysis results will be uploaded in upcoming commits.
